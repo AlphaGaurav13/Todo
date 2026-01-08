@@ -1,0 +1,24 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "this is simple todo application.",
+  "homepage": "https://github.com/AlphaGaurav13/Todo#readme",
+  "bugs": {
+    "url": "https://github.com/AlphaGaurav13/Todo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaGaurav13/Todo.git"
+  },
+  "license": "ISC",
+  "author": "Gaurav Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "zod": "^4.3.5"
+  }
+}
