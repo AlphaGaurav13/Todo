@@ -1,6 +1,7 @@
  # Todo Application Using MERN
 
- This project is a Todo Application
+ This project is a Todo Application. Using Express, mongoDB, Node, React.
+ fully functional and scalable.
 
  ## It has following features -
 
