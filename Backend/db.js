@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://LereLundke:TMKC3BAAR@cluster0.5f5cxbz.mongodb.net/todos')
+mongoose.connect('mongodb+srv://{USEYOURS}:{PASSWORDHERE}@cluster0.5f5cxbz.mongodb.net/todos')
 
 
 const todoSchema = mongoose.Schema({
